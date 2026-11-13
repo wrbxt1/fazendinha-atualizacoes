@@ -1,8 +1,7 @@
 {
-  "versao": "2.4",
+  "versao": "2.5",
   "arquivo": "Fazendinha.exe",
-  "url": "https://github.com/wrbxt1/fazendinha-atualizacoes/releases/download/v2.4/Fazendinha.exe",
-  "sha256": "d82d2b55a0364df97f60b23be90c53ed0c420b4cd4c7e4dbfa0e43ce934aa89b",
-  "tamanho": 156288752,
-  "notas": "Download da atualização mais confiável"
-}
+  "url": "https://github.com/wrbxt1/fazendinha-atualizacoes/releases/download/v2.5/Fazendinha.exe",
+  "sha256": "6c076e35f2f30b2081b6167efb3db181f6c33d8d2522fcaa713e6d9ae4001c8c",
+  "tamanho": 156290656,
+  "notas": "Aviso de jogo dentro do zip e download mais forte"
