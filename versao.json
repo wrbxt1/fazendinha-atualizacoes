@@ -1,8 +1,8 @@
 {
-  "versao": "2.5",
+  "versao": "2.6",
   "arquivo": "Fazendinha.exe",
-  "url": "https://github.com/wrbxt1/fazendinha-atualizacoes/releases/download/v2.5/Fazendinha.exe",
-  "sha256": "6c076e35f2f30b2081b6167efb3db181f6c33d8d2522fcaa713e6d9ae4001c8c",
-  "tamanho": 156290656,
-  "notas": "Aviso de jogo dentro do zip e download mais forte"
+  "url": "https://github.com/wrbxt1/fazendinha-atualizacoes/releases/download/v2.6/Fazendinha.exe",
+  "sha256": "9b94b0d0273b9a428e088c6546e854487032d43f918705ee0e95615ca53804c1",
+  "tamanho": 156087184,
+  "notas": "Voz nova do narrador"
 }
