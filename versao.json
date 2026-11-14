@@ -1,8 +1,8 @@
 {
-  "versao": "2.6",
+  "versao": "2.7",
   "arquivo": "Fazendinha.exe",
-  "url": "https://github.com/wrbxt1/fazendinha-atualizacoes/releases/download/v2.6/Fazendinha.exe",
-  "sha256": "9b94b0d0273b9a428e088c6546e854487032d43f918705ee0e95615ca53804c1",
-  "tamanho": 156087184,
-  "notas": "Voz nova do narrador"
+  "url": "https://github.com/wrbxt1/fazendinha-atualizacoes/releases/download/v2.7/Fazendinha.exe",
+  "sha256": "b4bffdf6b725cbbd5e81d8900a50207e0e25b48dcc1b7e68804c7730711f9202",
+  "tamanho": 156089360,
+  "notas": "Jogo mais leve e tocha do coronel corrigida"
 }
